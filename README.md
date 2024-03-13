@@ -48,3 +48,8 @@ Mengklik Tombol-1 akan muncul 2 alert sebagai berikut:
 Mengklik Tombol-2 akan muncul 2 alert sebagai berikut:
 ![alt text](asset-report/03-c.png)
 ![alt text](asset-report/03-d.png)
+
+
+## Praktikum 4
+![alt text](asset-report/04-a.png)
+![alt text](asset-report/04-b.png)
