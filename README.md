@@ -40,3 +40,11 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ![alt text](asset-report/02-c.png)
 
 ## Praktikum 3
+Mengklik Tombol-1 akan muncul 2 alert sebagai berikut:
+![alt text](asset-report/03-a.png)
+![alt text](asset-report/03-b.png)
+
+
+Mengklik Tombol-2 akan muncul 2 alert sebagai berikut:
+![alt text](asset-report/03-c.png)
+![alt text](asset-report/03-d.png)
