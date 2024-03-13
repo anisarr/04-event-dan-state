@@ -32,3 +32,11 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Praktikum 1
 ![alt text](asset-report/01.png)
+
+## Praktikum 2
+![alt text](asset-report/02.png)
+![alt text](asset-report/02-a.png)
+![alt text](asset-report/02-b.png)
+![alt text](asset-report/02-c.png)
+
+## Praktikum 3
