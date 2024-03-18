@@ -53,3 +53,14 @@ Mengklik Tombol-2 akan muncul 2 alert sebagai berikut:
 ## Praktikum 4
 ![alt text](asset-report/04-a.png)
 ![alt text](asset-report/04-b.png)
+
+Soal
+1. Jika kita menekan tombol "Artikel Selanjutnya" sebanyak 5x (atau melebihi halaman total artikel), apa yang akan terjadi?
+
+jika menekan tombol "Artikel Selanjutnya" sebanyak lebih dari 5x, sistem akan menampilkan pesan error "Unhandled Runtime Error"
+![alt text](asset-report/04-c.png)
+
+2. Modifikasilah gallery.tsx agar bisa meng-handle permasalahan tersebut.
+
+
+3. Tambahkan tombol "Artikel Sebelumnya", untuk menampilkan artikel secara mundur.
