@@ -10,7 +10,7 @@ export default function Gallery() {
             setIndex(index+1)
         }
         
-        function handleArticleReturn() {
+    function handleArticleReturn() {
         
             setIndex(index -1)
   

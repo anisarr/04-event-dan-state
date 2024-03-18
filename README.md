@@ -57,10 +57,14 @@ Mengklik Tombol-2 akan muncul 2 alert sebagai berikut:
 Soal
 1. Jika kita menekan tombol "Artikel Selanjutnya" sebanyak 5x (atau melebihi halaman total artikel), apa yang akan terjadi?
 
-jika menekan tombol "Artikel Selanjutnya" sebanyak lebih dari 5x, sistem akan menampilkan pesan error "Unhandled Runtime Error"
-![alt text](asset-report/04-c.png)
+    jika menekan tombol "Artikel Selanjutnya" sebanyak lebih dari 5x, sistem akan menampilkan pesan error "Unhandled Runtime Error"
+    ![alt text](asset-report/04-c.png)
 
 2. Modifikasilah gallery.tsx agar bisa meng-handle permasalahan tersebut.
 
+    Untuk meng-handle masalah tersebut bisa dengan menambahkan funtion baru yang berisi `setIndex(index-1)` supaya bisa kembali ke halaman sebelumnya. Selain itu, bikin tombol baru dengan nama `Artikel Sebelumnya` dan memanggil function tersebut ketika klik button `Artikel Sebelumnya`
+![alt text](image-1.png)
 
 3. Tambahkan tombol "Artikel Sebelumnya", untuk menampilkan artikel secara mundur.
+    ![alt text](asset-report/04-d.png)
+
